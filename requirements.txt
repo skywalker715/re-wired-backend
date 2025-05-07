@@ -3,3 +3,5 @@ flask-cors==4.0.0
 spacy==3.7.2
 transformers==4.38.2
 torch==2.2.1
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
